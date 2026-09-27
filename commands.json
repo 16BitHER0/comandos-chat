@@ -311,9 +311,21 @@
       "alt": "Miniatura de !sfxSubLevi"
     }
   },
+    {
+    "command": "!sfxMeme50",
+    "description": "SFX - MEMES - Quieres 50€ o No???",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxMeme50.mp3"
+    },
+    "image": {
+      "src": "image/memes.png",
+      "alt": "Miniatura de !sfxMeme50"
+    }
+  },
   {
     "command": "!sfxMemeComer",
-    "description": "SFX - MEMES - Sin Comer",
+    "description": "SFX - MEMES - Me quedo sin Comer",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxmemecomer.mp3"
@@ -323,9 +335,33 @@
       "alt": "Miniatura de !sfxMemeComer"
     }
   },
-  {
+    {
+    "command": "!sfxMemeFahh",
+    "description": "SFX - MEMES - Fahhr",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxMemeFahh.mp3"
+    },
+    "image": {
+      "src": "image/memes.png",
+      "alt": "Miniatura de !sfxMemeFahh"
+    }
+  },
+    {
+    "command": "!sfxMemeHeli",
+    "description": "SFX - MEMES - Helicopter Helicopter",
+    "coins": 2000,
+    "audio": {
+      "src": "audio/sfxMemeHeli.mp3"
+    },
+    "image": {
+      "src": "image/memes.png",
+      "alt": "Miniatura de !sfxMemeHeli"
+    }
+  },
+      {
     "command": "!sfxMemeOu",
-    "description": "SFX - MEMES - Disturbed",
+    "description": "SFX - MEMES - Ou Wah Ah Ah Ah",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxmemeou.mp3"
@@ -337,7 +373,7 @@
   },
   {
     "command": "!sfxMemeProwler",
-    "description": "SFX - MEMES - Prowler",
+    "description": "SFX - MEMES - Goku Prowler",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxmemeprowler.mp3"
@@ -361,8 +397,8 @@
   },
   {
     "command": "!sfxMemeSole",
-    "description": "SFX - MEMES - Sole",
-    "coins": 1000,
+    "description": "SFX - MEMES - Te meto Sole",
+    "coins": 2000,
     "audio": {
       "src": "audio/sfxmemesole.mp3"
     },

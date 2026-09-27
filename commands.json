@@ -314,7 +314,7 @@
     {
     "command": "!sfxMeme50",
     "description": "SFX - MEMES - Quieres 50€ o No???",
-    "coins": 1000,
+    "coins": 2000,
     "audio": {
       "src": "audio/sfxMeme50.mp3"
     },
@@ -405,6 +405,18 @@
     "image": {
       "src": "image/memes.png",
       "alt": "Miniatura de !sfxMemeSole"
+    }
+  },
+    {
+    "command": "!sfxMemeTlabaja",
+    "description": "SFX - MEMES - Miyamoto Tlabaja",
+    "coins": 2000,
+    "audio": {
+      "src": "audio/sfxMemeTlabaja.mp3"
+    },
+    "image": {
+      "src": "image/memes.png",
+      "alt": "Miniatura de !sfxMemeTlabaja"
     }
   },
   {

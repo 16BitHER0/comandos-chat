@@ -431,6 +431,18 @@
       "alt": "Miniatura de !sfxKneType"
     }
   },
+    {
+    "command": "!sfxXokPorros",
+    "description": "SFX - Xokas - Me Fumo 4 Porros!",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxXokPorros.mp3"
+    },
+    "image": {
+      "src": "image/xokas.png",
+      "alt": "Miniatura de !sfxXokPorros"
+    }
+  },
   {
     "command": "!sfxXokx264",
     "description": "SFX - Xokas - x264",
@@ -445,7 +457,7 @@
   },
   {
     "command": "!sfxXokCalla",
-    "description": "SFX - Xokas - Callarte",
+    "description": "SFX - Xokas - Bijiro Callate",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxxokcalla.mp3"
@@ -455,10 +467,46 @@
       "alt": "Miniatura de !sfxXokCalla"
     }
   },
+    {
+    "command": "!sfxXokDammit",
+    "description": "SFX - Xokas - God Dammit",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxXokDammit.mp3"
+    },
+    "image": {
+      "src": "image/xokas.png",
+      "alt": "Miniatura de !sfxXokDammit"
+    }
+  },
+    {
+    "command": "!sfxXokEpic",
+    "description": "SFX - Xokas - That was Epic",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxXokEpic.mp3"
+    },
+    "image": {
+      "src": "image/xokas.png",
+      "alt": "Miniatura de !sfxXokEPic"
+    }
+  },
+    {
+    "command": "!sfxXokIam",
+    "description": "SFX - Xokas - I am",
+    "coins": 2000,
+    "audio": {
+      "src": "audio/sfxXokIam.mp3"
+    },
+    "image": {
+      "src": "image/xokas.png",
+      "alt": "Miniatura de !sfxXokIam"
+    }
+  },
   {
     "command": "!sfxXokMalito",
-    "description": "SFX - Xokas - Malito",
-    "coins": 1000,
+    "description": "SFX - Xokas - Bijiro Malito",
+    "coins": 2000,
     "audio": {
       "src": "audio/sfxxokmalito.mp3"
     },
@@ -482,13 +530,37 @@
   {
     "command": "!sfxXokMecha",
     "description": "SFX - Xokas - Mecha",
-    "coins": 1000,
+    "coins": 2000,
     "audio": {
       "src": "audio/sfxxokmecha.mp3"
     },
     "image": {
       "src": "image/xokas.png",
       "alt": "Miniatura de !sfxXokMecha"
+    }
+  },
+  {
+    "command": "!sfxXokTorti",
+    "description": "SFX - Xokas - Pero La Quería Tanto...",
+    "coins": 2000,
+    "audio": {
+      "src": "audio/sfxXokQueria.mp3"
+    },
+    "image": {
+      "src": "image/xokas.png",
+      "alt": "Miniatura de !sfxXokQueria"
+    }
+  },
+  {
+    "command": "!sfxXokTorti",
+    "description": "SFX - Xokas - Tortilla",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxXokTorti.mp3"
+    },
+    "image": {
+      "src": "image/xokas.png",
+      "alt": "Miniatura de !sfxXokTorti"
     }
   },
   {

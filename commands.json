@@ -383,9 +383,21 @@
       "alt": "Miniatura de !sfxMemeYippie"
     }
   },
+    {
+    "command": "!sfxKneBuenas",
+    "description": "SFX - KNekro - Buenas y Santas",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxKneBuenas.mp3"
+    },
+    "image": {
+      "src": "image/knekro.png",
+      "alt": "Miniatura de !sfxKneBuenasa"
+    }
+  },
   {
     "command": "!sfxKneChupa",
-    "description": "SFX - KNekro - Chupa",
+    "description": "SFX - KNekro - Bijiro Chupame la P*lla",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxknechupa.mp3"
@@ -395,9 +407,21 @@
       "alt": "Miniatura de !sfxKneChupa"
     }
   },
+    {
+    "command": "!sfxKnePajin",
+    "description": "SFX - KNekro - Cállate Pajín",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxKnePajin.mp3"
+    },
+    "image": {
+      "src": "image/knekro.png",
+      "alt": "Miniatura de !sfxKnePajin"
+    }
+  },
   {
     "command": "!sfxKnePali",
-    "description": "SFX - KNekro - Paliza",
+    "description": "SFX - KNekro - Paliza Bijiro",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxknepali.mp3"
@@ -409,7 +433,7 @@
   },
   {
     "command": "!sfxKneRobo",
-    "description": "SFX - KNekro - Robotin",
+    "description": "SFX - KNekro - Tu P*taMadre Robotin",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxknerobo.mp3"
@@ -421,7 +445,7 @@
   },
   {
     "command": "!sfxKneType",
-    "description": "SFX - KNekro - TypeGame",
+    "description": "SFX - KNekro - BijiroTypeGame",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxknetype.mp3"
@@ -429,6 +453,30 @@
     "image": {
       "src": "image/knekro.png",
       "alt": "Miniatura de !sfxKneType"
+    }
+  },
+  {
+    "command": "!sfxKneYaNo",
+    "description": "SFX - KNekro - YaNoMeSale Cmen",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxKneYaNo.mp3"
+    },
+    "image": {
+      "src": "image/knekro.png",
+      "alt": "Miniatura de !sfxKneYaNo"
+    }
+  },
+    {
+    "command": "!sfxKneZenkiu",
+    "description": "SFX - KNekro - Zenkiu Men",
+    "coins": 1000,
+    "audio": {
+      "src": "audio/sfxKneZenkiu.mp3"
+    },
+    "image": {
+      "src": "image/knekro.png",
+      "alt": "Miniatura de !sfxKneZenkiu"
     }
   },
     {

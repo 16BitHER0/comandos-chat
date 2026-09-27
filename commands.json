@@ -508,7 +508,7 @@
     "description": "SFX - Xokas - Bijiro Malito",
     "coins": 2000,
     "audio": {
-      "src": "audio/sfxxokmalito.mp3"
+      "src": "audio/sfxXokMalito.mp3"
     },
     "image": {
       "src": "image/xokas.png",

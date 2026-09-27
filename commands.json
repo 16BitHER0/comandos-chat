@@ -446,7 +446,7 @@
   {
     "command": "!sfxXokx264",
     "description": "SFX - Xokas - x264",
-    "coins": 1000,
+    "coins": 2000,
     "audio": {
       "src": "audio/sfxxokx264.mp3"
     },
@@ -457,7 +457,7 @@
   },
   {
     "command": "!sfxXokCalla",
-    "description": "SFX - Xokas - Bijiro Callate",
+    "description": "SFX - Xokas - Bijiro Cállate",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxxokcalla.mp3"
@@ -488,13 +488,13 @@
     },
     "image": {
       "src": "image/xokas.png",
-      "alt": "Miniatura de !sfxXokEPic"
+      "alt": "Miniatura de !sfxXokEpic"
     }
   },
     {
     "command": "!sfxXokIam",
     "description": "SFX - Xokas - I am",
-    "coins": 2000,
+    "coins": 1000,
     "audio": {
       "src": "audio/sfxXokIam.mp3"
     },
@@ -540,7 +540,7 @@
     }
   },
   {
-    "command": "!sfxXokTorti",
+    "command": "!sfxXokQuedria",
     "description": "SFX - Xokas - Pero La Quería Tanto...",
     "coins": 2000,
     "audio": {
@@ -565,7 +565,7 @@
   },
   {
     "command": "!sfxXokTrabaja",
-    "description": "SFX - Xokas - Trabaja",
+    "description": "SFX - Xokas - Trabaja Bijiro!",
     "coins": 1000,
     "audio": {
       "src": "audio/sfxxoktrabaja.mp3"
